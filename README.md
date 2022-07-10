@@ -1,2 +1,1 @@
-# ZeroToPandasProject_and_Assignments
-### [Analysis of CSGO proffesional matches from 2015 to 2020 ]([url](https://github.com/Chros08/ZeroToPandasProject_and_Assignments/blob/main/zerotopandas-csgo-analysis-project-v-34/zerotopandas-course-project.ipynb))
+Tareas y Proyecto realizado en el curso online ZeroToPandas, los cuales fueron mis primeros pasos para el análisis de datos con Python
